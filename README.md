@@ -1,6 +1,6 @@
 # Duke-ids_706-Data-Engineering-System
 #duke-data-engineering
-# Course 1
+# Cousera Course 1: Python and Pandas for Data Engineering
 ## Week 1
 ### Install vs. Unintall packages
   - `python -m pip --version` - check version
