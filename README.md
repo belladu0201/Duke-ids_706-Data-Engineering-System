@@ -13,5 +13,6 @@
 - Shell commends
 - ls: list the commands of a directory
 - cat: prints the conent of a file to the screen
+- `pip freeze > requirements.txt`- create a requirements file with the packages installed using pip
   
   
