@@ -14,5 +14,11 @@
 - ls: list the commands of a directory
 - cat: prints the conent of a file to the screen
 - `pip freeze > requirements.txt`- create a requirements file with the packages installed using pip
+### Create a Virtual Environment
+- `python -m venv ~/envs/...` : To create a virtual environment named '...'
+- `source ~/envs/.../bin/activate`:activate new environment
+- `pip list`: To see the packages installed in your environment.
+- `pip install -r requirements.txt` : install the packages saved to your requirements file from the previous lab.
+- `deactivate`: deactivate the environment
   
   
