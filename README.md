@@ -27,6 +27,12 @@
 - data = [['Name',  'bella'   ], ['Age',   21]]
 dict(data)
 - {'Name':  'bella'    , 'Age': 21  }
+### creating fibonacci series by using generators
 
+### Comprehension using curly brackets will produce a dictionary. 
+- `name = 'bella'`
+- `items = zip(list(name), list(range(len(name))))`
+- `print(items)`
+- `{x:y for x,y in items}`
   
   
