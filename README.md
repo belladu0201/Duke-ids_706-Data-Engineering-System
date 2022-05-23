@@ -28,7 +28,7 @@
 dict(data)
 - {'Name':  'bella'    , 'Age': 21  }
 ### creating fibonacci series by using generators
-![alt text](<img width="361" alt="Screen Shot 2022-05-23 at 1 11 49 AM" src="https://user-images.githubusercontent.com/60382493/169774254-02124014-1df5-4ea0-a57b-3489fcf7054c.png">)
+![alt text](<img width="361" alt="Screen Shot 2022-05-23 at 1 11 49 AM" src="https://user-images.githubusercontent.com/60382493/169774354-706f5719-8b25-47b0-938e-2c6d516c4aee.png">)
 
 ### Comprehension using curly brackets will produce a dictionary. 
 - `name = 'bella'`
