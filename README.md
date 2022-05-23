@@ -20,5 +20,13 @@
 - `pip list`: To see the packages installed in your environment.
 - `pip install -r requirements.txt` : install the packages saved to your requirements file from the previous lab.
 - `deactivate`: deactivate the environment
+
+## Week 2
+### 3 ways creating dictionaries
+- dict(Name= 'bella'    , Age=  21 )
+- data = [['Name',  'bella'   ], ['Age',   21]]
+dict(data)
+- {'Name':  'bella'    , 'Age': 21  }
+
   
   
