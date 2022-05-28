@@ -36,4 +36,8 @@ dict(data)
 - `print(items)`
 - `{x:y for x,y in items}`
   
+## Week 3
+### Creating NumPy Arrays in Python
+- ndarray: multi-dimensional data, single data type, complex numerical calculations
+- dataframe: 2d data,multiple data types, data analysis, data visualization
   
