@@ -55,3 +55,10 @@ dict(data)
 - call `result.dask`  and `result.visualize()` will generate graph for visalization
 - Big data: choose PySpark or Dask
 - choose between PySpark or Dask: based on ur enterprise: PySpark documentation goood good, maturity of product; Dask is python natives, can use pandas and numpy full capabilities, dask good if u know ur pipelines
+## Week 4
+### Vim Normal Mode
+- Some mode in terminal: 
+- h - move left
+- j - move down
+- k - move up
+- l - move right
