@@ -46,3 +46,12 @@ dict(data)
 - Lazy evaluation: operations stacked behind scenes, results not calculated immediately
 - pandas uses eager evaluation: get an output then run the following, very interactive and easy to debug
 - Spark: good for big data, like csv > 1GB,  debug is challenging, great for making transformations in big data
+## Creating Dask DataFrames in Python
+- distributed operations
+- wraps pandas df and np arrays
+- `import dask.dataframe as dd`, can use the function `dd.from_pandas(df, n_partitions = 3)`
+- didn't give the exact data and results as output, because it uses the lazy evaluation
+- `ddf.std().compute()` will give the result, but`ddf.std()` will not; need to call `compute()`
+- call `result.dask`  and `result.visualize()` will generate graph for visalization
+- Big data: choose PySpark or Dask
+- choose between PySpark or Dask: based on ur enterprise: PySpark documentation goood good, maturity of product; Dask is python natives, can use pandas and numpy full capabilities, dask good if u know ur pipelines
