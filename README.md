@@ -40,4 +40,9 @@ dict(data)
 ### Creating NumPy Arrays in Python
 - ndarray: multi-dimensional data, single data type, complex numerical calculations
 - dataframe: 2d data,multiple data types, data analysis, data visualization
-  
+### Spark and PySpark DataFrames in Python
+- Hadoop and Spark both distributed, allow scale horizontally
+- Spark: distirbuted Dataframes using java virtual machine (JVM)
+- Lazy evaluation: operations stacked behind scenes, results not calculated immediately
+- pandas uses eager evaluation: get an output then run the following, very interactive and easy to debug
+- Spark: good for big data, like csv > 1GB,  debug is challenging, great for making transformations in big data
