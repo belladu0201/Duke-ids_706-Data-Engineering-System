@@ -66,3 +66,7 @@ dict(data)
 # Cousera Course 2: Linux and Bash for Data Engineering
 ## Week 1
 ### Linux Shell
+### Github CodeSpaces
+- `uname -a`: check operating system
+- `touch`: create a new file
+- ls, `pwd`: show the full path u currently located, cat
