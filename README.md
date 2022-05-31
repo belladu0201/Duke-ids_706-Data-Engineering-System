@@ -62,3 +62,7 @@ dict(data)
 - j - move down
 - k - move up
 - l - move right
+
+# Cousera Course 2: Linux and Bash for Data Engineering
+## Week 1
+### Linux Shell
